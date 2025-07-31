@@ -1,19 +1,17 @@
 # naive-ui-provider
-## How to use provider
-See src/container/home/Home.vue for more details.
-### 1.global use
-See src/container/home/Home.vue for more details.
-### 2. request use
-See src/container/request/Request.vue for more details.
 
-### 3. import useMessage
-See src/container/message/Message.vue for more details.
+## The purpose of asset inventarization is to:
 
-### 4. import useDialog
-See src/container/dialog/Dialog.vue for more details.
+1. Track and manage assets effectively
+2. Determine asset value for financial reporting
+3. Identify potential risks and opportunities
+4. Optimize asset utilization and maintenance
+5. Support decision-making and strategic planning
 
-### 4. import useNotification
-See src/container/notification/Notification.vue for more details.
+## The process typically involves:
 
-### 4. import useLoadingBar
-See src/container/loadingBar/LoadingBar.vue for more details.
+1. Asset identification
+2. Data collection and documentation
+3. Asset valuation
+4. Categorization and classification
+5. Regular updates and maintenance
