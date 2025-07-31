@@ -1,4 +1,4 @@
-# naive-ui-provider
+# Inventarization Assets
 
 ## The purpose of asset inventarization is to:
 
